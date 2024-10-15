@@ -3,5 +3,7 @@ logs
 *.log
 npm-debug.log*
 
-# Dependency directories
+# Dependency Directories
 node_modules/
+
+#Runtime data
